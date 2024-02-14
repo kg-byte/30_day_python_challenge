@@ -1,0 +1,9 @@
+{
+    "plugins": ["cashapp"],
+    "payments": {
+        "cc": ["card number", " expiration data", "ccv"],
+        "paypal": ["username", "password"],
+        "apple": ["device ID"],
+        "cashapp": ["username", "password"]
+    }
+}

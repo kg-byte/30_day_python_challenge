@@ -1,0 +1,7 @@
+Timestamp,Device,Sensor,Value
+2022-01-01 00:00:00,Device1,Temperature,298.75
+2022-01-01 00:10:00,Device1,Temperature,299.34999999999997
+2022-01-01 00:15:00,Device2,Temperature,300.25
+2022-01-01 00:25:00,Device2,Temperature,301.45
+2022-01-01 00:30:00,Device3,Temperature,297.95
+2022-01-01 00:40:00,Device3,Temperature,299.15

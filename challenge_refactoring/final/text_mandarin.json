@@ -1,0 +1,13 @@
+{
+    "cli_description": "获取某个城市的天气预报",
+    "help_city": "输入城市名获取天气预报",
+    "help_conditions": "天气预报选项. 清选择'all' or 'a' （显示全部信息）, 'temperature' or 't'（温度）, 'humidity' or 'h'（湿度）, 'wind' or 'w'.（风速及风向）",
+    "help_api_key": "Openweather的API密钥",
+    "conditions_humidity": ["humidity", "h"],
+    "conditions_wind": ["wind", "w"],
+    "conditions_all": ["all", "a"],
+    "conditions_temperature": ["temperature", "t"],
+    "info_temperature": "{city}市的实时温度是{temperature:.1f} °C。",
+    "info_humidity": "{city}市的实时湿度是{humidity}%.", 
+    "info_wind": "{city}市实时风速：{wind_speed} m/s 风向: {wind_direction}度。"
+}
